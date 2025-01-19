@@ -51,4 +51,4 @@ For example, you can run a `Oracle Java 8` container with the following command:
 
 
 
-   @[dockerfile]([https://github.com/dockerfile/])
+  1. @[dockerfile]([https://github.com/dockerfile/]).
